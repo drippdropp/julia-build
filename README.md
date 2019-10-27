@@ -1,6 +1,10 @@
 ![](https://travis-ci.org/jlenv/julia-build.svg?branch=master)
 
-# julia-build
+# Deprecation Warning:  Likely to be superceeded - use at own risk.
+
+This build script is almost certain to be deprecated in favor of julia-install(forthcoming).
+
+## julia-build
 
 This project was forked from [ruby-build](https://github.com/rbenv/ruby-build), and modified for [julia](https://github.com/JuliaLang/julia).
 
